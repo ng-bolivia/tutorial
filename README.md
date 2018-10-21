@@ -59,7 +59,7 @@ Tendrá (más o menos) esta pinta:
 
   
 
-Este tutorial lo mantiene [NG Bolivia](https://ng-bolivia.org/). Si encuentras algún error o quieres actualizar el tutorial, por favor [sigue la guía de cómo contribuir](https://github.com/DjangoGirls/tutorial/blob/master/README.md).
+Este tutorial lo mantiene [NG Bolivia](https://ng-bolivia.org/). Si encuentras algún error o quieres actualizar el tutorial, por favor sigue la [guía de cómo contribuir](https://github.com/DjangoGirls/tutorial/blob/master/README.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTc2MDA2NywxODExNzU2MzM4XX0=
+eyJoaXN0b3J5IjpbLTIxMzc3MjU4ODMsMTgxMTc1NjMzOF19
 -->
