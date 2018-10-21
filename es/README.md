@@ -4,9 +4,9 @@
 
 ## Bienvenid@
 
-¡Bienvenid@ al tutorial de las ngGirls! ¡Nos alegra que estes aquí! :) En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, para que veas todas las piezas que se necesitan para que una app web funcione.
+¡Bienvenid@ al tutorial de las ngGirls! ¡Nos alegra que estes aquí! En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, para que veas todas las piezas que se necesitan para que una app web funcione.
 
-Como pasa con todas las cosas nuevas, va a ser una aventura, diviértete, una vez que te has decidido a empezar, te va a ir fenomenal :)
+Como pasa con todas las cosas nuevas, va a ser una aventura, diviértete, una vez que te has decidido a empezar, te va a ir fenomenal.
 
 ## Introducción
 
