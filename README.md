@@ -55,43 +55,11 @@ Tendrá (más o menos) esta pinta:
 
   
 
-Bien, [empecemos por el comienzo...](./how_the_internet_works/README.md)
-
-  
-
-##  Seguir el tutorial desde casa
-
-  
-
-Participar en un taller de ngGirls en vivo es genial, pero somos conscientes de que no siempre es posible hacerlo. Por eso, te recomendamos hacer este tutorial en casa. Para l@s que están en casa, estamos preparando videos que facilitarán seguir el tutorial por tu cuenta. Todavía está en progreso, pero cada vez hay más cosas explicadas en el canal de YouTube [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A/feed) (Nota: en inglés).
-
-  
-
-En cada capítulo hay un enlace que lleva al video correspondiente (si lo hay).
-
-  
-
 ##  Sobre nosotr@s y Cómo contribuir
 
   
 
 Este tutorial lo mantiene [NG Bolivia](https://ng-bolivia.org/). Si encuentras algún error o quieres actualizar el tutorial, por favor [sigue la guía de cómo contribuir](https://github.com/DjangoGirls/tutorial/blob/master/README.md).
-
-  
-
-##  ¿Te gustaría ayudarnos a traducir el tutorial a otros idiomas?
-
-  
-
-Actualmente, las traducciones se hacen en la plataforma crowdin.com, en el siguiente enlace:
-
-  
-
-https://crowdin.com/project/django-girls-tutorial
-
-  
-
-Si tu idioma no aparece en la lista de [crowdin](https://crowdin.com/), por favor [abre un nuevo issue](https://github.com/DjangoGirls/tutorial/issues/new) con el idioma para que podamos añadirlo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTc1NjMzOF19
+eyJoaXN0b3J5IjpbMTA3NTc2MDA2NywxODExNzU2MzM4XX0=
 -->
