@@ -11,7 +11,7 @@
 
   
 
-¡Bienvenid@ al tutorial de las ngGirls! ¡Nos alegra que estes aquí! :) En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, para que veas todas las piezas que se necesitan para que la web funcione.
+¡Bienvenid@ al tutorial de las ngGirls! ¡Nos alegra que estes aquí! :) En este tutorial, te llevaremos de viaje a las entrañas de la tecnología web, para que veas todas las piezas que se necesitan para que una app web funcione.
 
   
 
@@ -93,5 +93,5 @@ https://crowdin.com/project/django-girls-tutorial
 
 Si tu idioma no aparece en la lista de [crowdin](https://crowdin.com/), por favor [abre un nuevo issue](https://github.com/DjangoGirls/tutorial/issues/new) con el idioma para que podamos añadirlo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1OTg0MDc2XX0=
+eyJoaXN0b3J5IjpbMTgxMTc1NjMzOF19
 -->
