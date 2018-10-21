@@ -1,8 +1,6 @@
 
 #  Tutorial de ngGirls
 
-[![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
-
   
 
 > Este trabajo está bajo la licencia internacional Creative Commons Attribution-ShareAlike 4.0. Para ver una copia de esta licencia, visita el siguiente enlace https://creativecommons.org/licenses/by-sa/4.0/
@@ -57,10 +55,6 @@ Tendrá (más o menos) esta pinta:
 
   
 
-> Si estás siguiendo este tutorial por tu cuenta y no tienes un mentor que te ayude en caso de dificultades, tenemos un chat para ti: [![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial). ¡Hemos pedido a mentores y asistentes de ediciones anteriores, que pasen por allí de vez en cuando para echar una mano a otras con el tutorial! ¡No tengas miedo de preguntar ahí!
-
-  
-
 Bien, [empecemos por el comienzo...](./how_the_internet_works/README.md)
 
   
@@ -99,5 +93,5 @@ https://crowdin.com/project/django-girls-tutorial
 
 Si tu idioma no aparece en la lista de [crowdin](https://crowdin.com/), por favor [abre un nuevo issue](https://github.com/DjangoGirls/tutorial/issues/new) con el idioma para que podamos añadirlo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDQ1ODkyOF19
+eyJoaXN0b3J5IjpbNTI1OTg0MDc2XX0=
 -->
