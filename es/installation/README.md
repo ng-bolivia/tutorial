@@ -1,58 +1,41 @@
-# Si estás haciendo el tutorial en casa
-
-Si estás haciendo el tutorial en casa, y no en uno de los [eventos de Django Girls](https://djangogirls.org/events/), puedes saltar este capítulo por completo e ir directamente al capítulo [¿cómo funciona Internet?](../how_the_internet_works/README.md).
-
-Esto es porque cubrimos estas cosas en todo el tutorial de todos modos, y esto es sólo una página adicional que recoge todas las instrucciones de instalación en un solo lugar. El evento de Django Grils incluye una "noche de la instalación" en la que instalamos todo, así que no tenemos que molestar con ella durante el taller, así que esto es útil para nosotros.
-
-Si lo encuentras útil, puedes seguir este capítulo también. Pero si quieres empezar a aprender antes de instalar un montón de cosas en tu computadora, sáltate este capítulo y te explicaremos la parte de instalación más adelante.
-
-¡Buena suerte!
-
 # Instalación
+Estamos a punto de configurar nuestro entorno para trabajar con Angular, los pasos son sencillos.
+## Requisitos
+Primero tienes que asegurarte de tener instalado lo siguiente:
+  1. Git - Descargar e instalar [Git](https://git-scm.com/downloads)
+  2. NodeJS - Descargar e instalar la última versión de [NodeJS](https://nodejs.org/es/)
+  3. Editor de codigo: Puedes usar el de tu preferencia, si es que no cuentas con alguno puedes probar utilizando [Visual Studio Code](https://code.visualstudio.com/Download)
 
-En el taller construiremos un blog, y hay algunas tareas de configuración en el tutorial que sería bueno hacer de antemano para que estés listo para comenzar a codificar en el día.
+Con esto ya estamos listos para comenzar a configurar nuestro entorno.
+## Preparando el entorno
+Lo primero que tenemos que hacer es instalar **Angular CLI**, desde tu consola o terminal ejecuta el siguiente comando:
+```sh
+npm install @angular/cli -g
+```
+Este comando instalará de manera global angular-cli que te permite automatizar e iniciar aplicaciones de angular.
 
-<!--sec data-title="Chromebook setup (if you're using one)"
-data-id="chromebook_setup" data-collapse=true ces--> {% include "/chromebook_setup/instructions.md" %} 
+Una vez el comando termine, ejecuta:
+```sh
+ng -v
+```
+Este comando imprimirá en la consola un Arte ASCII de angular-cli y las versiones instaladas de los diferentes paquetes de la aplicación.
 
-<!--endsec-->
+A partir de ahora puedes crear una aplicación de Angular con el comando “new”:
+```sh
+ng new mi-primera-aplicacion-angular
+```
+Se creará un directorio con el nombre del proyecto que hayas creado, entonces ahora necesitas ingresar al directorio:
+```sh
+cd mi-primera-aplicacion-angular
+```
+Ahora puedes ejecutar el siguiente comando:
+```sh
+ng serve
+```
+Tu aplicación comenzará en el puerto 4200:
+```sh
+http://localhost:4200/
+```
+Navega a la url y podrás ver corriendo tu primera aplicación de Angular!
 
-# Instalar Python
-
-{% include "/python_installation/instructions.md" %}
-
-# Instala un Editor de Código
-
-{% include "/code_editor/instructions.md" %}
-
-# Crea un entorno virtual (virtualenv) e instala Django
-
-{% include "/django_installation/instructions.md" %}
-
-# Instalar Git
-
-{% include "/deploy/install_git.md" %}
-
-# Crear una cuenta de GitHub
-
-Visita [GitHub.com](https://www.github.com) y registra una nueva cuenta de usuario gratuita.
-
-# Crear una cuenta de PythonAnywhere
-
-{% include "/deploy/signup_pythonanywhere.md" %}
-
-# Comienza a leer
-
-Felicitaciones, ya tienes todo configurado y listo para seguir! Si aún tienes tiempo antes del taller, sería útil comenzar a leer algunos de los capítulos iniciales:
-
-* [¿Cómo funciona internet?](../how_the_internet_works/README.md)
-
-* [Introducción a la línea de comandos](../intro_to_command_line/README.md)
-
-* [Introducción a Python](../python_introduction/README.md)
-
-* [¿Qué es Django?](../django/README.md)
-
-# ¡Disfrutar el taller!
-
-Al comenzar el taller, podrás ir directamente a [Tu primer proyecto en Django!](../django_start_project/README.md) porque ya cubriste el material de los capítulos anteriores.
+![Alt Text](https://media1.tenor.com/images/60566e076cb41567efe97e3ed8a238d4/tenor.gif?itemid=4487134)
